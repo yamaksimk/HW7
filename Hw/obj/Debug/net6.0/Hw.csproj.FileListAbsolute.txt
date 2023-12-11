@@ -1,0 +1,15 @@
+/Users/maksimkurakin/Desktop/GeekBrains/Знакомство с языками программирования Семинары/Семинар 7/Hw/bin/Debug/net6.0/Hw
+/Users/maksimkurakin/Desktop/GeekBrains/Знакомство с языками программирования Семинары/Семинар 7/Hw/bin/Debug/net6.0/Hw.deps.json
+/Users/maksimkurakin/Desktop/GeekBrains/Знакомство с языками программирования Семинары/Семинар 7/Hw/bin/Debug/net6.0/Hw.runtimeconfig.json
+/Users/maksimkurakin/Desktop/GeekBrains/Знакомство с языками программирования Семинары/Семинар 7/Hw/bin/Debug/net6.0/Hw.dll
+/Users/maksimkurakin/Desktop/GeekBrains/Знакомство с языками программирования Семинары/Семинар 7/Hw/bin/Debug/net6.0/Hw.pdb
+/Users/maksimkurakin/Desktop/GeekBrains/Знакомство с языками программирования Семинары/Семинар 7/Hw/obj/Debug/net6.0/Hw.csproj.AssemblyReference.cache
+/Users/maksimkurakin/Desktop/GeekBrains/Знакомство с языками программирования Семинары/Семинар 7/Hw/obj/Debug/net6.0/Hw.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimkurakin/Desktop/GeekBrains/Знакомство с языками программирования Семинары/Семинар 7/Hw/obj/Debug/net6.0/Hw.AssemblyInfoInputs.cache
+/Users/maksimkurakin/Desktop/GeekBrains/Знакомство с языками программирования Семинары/Семинар 7/Hw/obj/Debug/net6.0/Hw.AssemblyInfo.cs
+/Users/maksimkurakin/Desktop/GeekBrains/Знакомство с языками программирования Семинары/Семинар 7/Hw/obj/Debug/net6.0/Hw.csproj.CoreCompileInputs.cache
+/Users/maksimkurakin/Desktop/GeekBrains/Знакомство с языками программирования Семинары/Семинар 7/Hw/obj/Debug/net6.0/Hw.dll
+/Users/maksimkurakin/Desktop/GeekBrains/Знакомство с языками программирования Семинары/Семинар 7/Hw/obj/Debug/net6.0/refint/Hw.dll
+/Users/maksimkurakin/Desktop/GeekBrains/Знакомство с языками программирования Семинары/Семинар 7/Hw/obj/Debug/net6.0/Hw.pdb
+/Users/maksimkurakin/Desktop/GeekBrains/Знакомство с языками программирования Семинары/Семинар 7/Hw/obj/Debug/net6.0/Hw.genruntimeconfig.cache
+/Users/maksimkurakin/Desktop/GeekBrains/Знакомство с языками программирования Семинары/Семинар 7/Hw/obj/Debug/net6.0/ref/Hw.dll
